@@ -1,4 +1,4 @@
-const TransactionReducer = ((state, action)=>{
+/*const TransactionReducer = ((state, action)=>{
    switch(action.type){
        case "ADD_TRANSACTION": {
            return [action.payload , ...state]
@@ -9,3 +9,4 @@ const TransactionReducer = ((state, action)=>{
 })
 
 export  default TransactionReducer;
+*/
