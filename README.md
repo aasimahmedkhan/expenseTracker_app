@@ -1,2 +1,2 @@
-# Expense_App
+# Expense Tracker App
  
