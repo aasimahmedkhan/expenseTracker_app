@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+/*import React, { useContext } from 'react';
 import { TransactionContext } from './transContext';
 
 function Child() {
@@ -95,9 +95,9 @@ function Child() {
         <input type="submit" value="Add Transaction" />
 
       </form>
-    </div>
+    </div> 
   );
 
 }
 
-export default Child;
+export default Child;  */
