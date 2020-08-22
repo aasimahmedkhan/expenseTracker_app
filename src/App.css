@@ -8,7 +8,7 @@
 }
 
 .container {
-  background-color: green;
+  background-color:lightgray;
   display: flex;
   box-shadow: var(--box-shadow);
   flex-direction: column;
