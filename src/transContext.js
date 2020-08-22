@@ -1,4 +1,4 @@
-*/import React, { createContext, useReducer } from "react";
+/*import React, { createContext, useReducer } from "react";
 import TransactionReducer from './transReducer';
 
 const initialTransactions = [
@@ -40,6 +40,7 @@ export const TransactionProvider = ({children})=> {
          </TransactionContext.Provider>
      )
 
-} */
+} 
        
   
+*/
